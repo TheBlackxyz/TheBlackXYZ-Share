@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img src="https://graph.org/file/003a951cb93ddec63b8bf.jpg" alt="TheBlackXYZ-Share Logo">
+  <img src="https://graph.org/file/6b1a9d694966f49ad0d43.jpg" alt="TheBlackXYZ-Share Logo">
 </p>
 <h1 align="center">
   TheBlackXYZ-Share
