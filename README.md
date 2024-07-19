@@ -1,6 +1,6 @@
 <h1 align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+To+TheBlackXYZBotz;I+Am+Teligram+Bot+Developerr+;This+Is+Autofilter+Ai+Support+Bot;Multiple+Features+Earn+Money+Bot;Subscribe+TheBlackXYZ+On+YouTube;Please+Star+and+Fork+My+Repos)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+To+TheBlackXYZBotz;I+Am+Teligram+Bot+Developerr+;This+Is+File+Share+Support+Bot;Subscribe+TheBlackXYZ+On+YouTube;Please+Star+and+Fork+My+Repos)](https://git.io/typing-svg) 
 </h1>
 
 <h1 align="center">
