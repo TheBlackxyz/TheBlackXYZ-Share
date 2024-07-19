@@ -32,12 +32,19 @@ ________________________________________________________________________________
 # Amazing Feature........❔❓
 
 [x] - This Is Teligram TheBlackXYZ Developerr Bot 
+
 [x] - This Bot Fully Control Admin Bot
+
 [x] - File sharing Bot With Special Links 
+
 [x] - More than one Posts in One Link.
+
 [x] - Batch File Share
+
 [x] - Specific File Link Generat
+
 [x] - Foce Channel
+
 [x] - Welcome Message 
 
 
